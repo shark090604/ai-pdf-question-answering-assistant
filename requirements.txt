@@ -1,0 +1,5 @@
+streamlit==1.66.1
+pypdf==6.21.3
+scikit-learn==1.9.1
+transformers==4.57.1
+torch==2.14.1+cpu
